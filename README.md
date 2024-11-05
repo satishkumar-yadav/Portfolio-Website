@@ -1,13 +1,13 @@
 # Portfolio
-My website portfolio
+My Portfolio
 
 ## Screenshots:
 ### Computer View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio.PNG)
+![alt text](https://github.com/satishkumar-yadav/Portfolio-Website/blob/master/Portfolio.PNG)
 
 ### Mobile View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio_mobile.PNG)
+![alt text](https://github.com/satishkumar-yadav/Portfolio-Website/blob/master/Portfolio_mobile.PNG)
 
 ## Author
-* Mohd. Ali Solanki (https://youtube.com/AliSolanki)
+* Satish Kumar Yadav 
 # Portfolio
