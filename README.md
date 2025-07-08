@@ -6,7 +6,7 @@ My Portfolio
 ![alt text](https://github.com/satishkumar-yadav/Portfolio-Website/blob/main/Portfolio.PNG)
 
 ### Mobile View
-![alt text](https://github.com/satishkumar-yadav/Portfolio-Website/master/Portfolio_mobile.PNG)
+![alt text](https://github.com/satishkumar-yadav/Portfolio-Website/blob/main/Portfolio_mobile.PNG)
 
 ## Author
 * Satish Kumar Yadav 
